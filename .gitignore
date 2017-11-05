@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+
+input/train*
+input/test*
+!input/train*_sample.*
+!input/test*_sample.*
