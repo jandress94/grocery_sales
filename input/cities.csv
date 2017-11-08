@@ -1,23 +1,23 @@
-city,state,population,latitude,longitude
-Cuenca,Azuay,331888,-2.9001,-79.0059
-Guaranda,Bolivar,23874,-1.5905,-78.9995
-Riobamba,Chimborazo,"156,723",-1.6636,-78.6546
-Latacunga,Cotopaxi,63842,-0.9316,-78.6058
-Machala,El Oro,241606,-3.2581,-79.9554
-Esmeraldas,Esmeraldas,161868,0.9682,-79.6517
-Daule,Guayas,65145,-1.8622,-79.9777
-Guayaquil,Guayas,2278691,-2.171,-79.9224
-Libertad,Guayas,77646,-2.233,-80.9
-Playas,Guayas,24070,-2.6285,-80.3896
-Ibarra,Imbabura,139721,0.3392,-78.1222
-Loja,Loja,180617,-4.0079,-79.2113
-Babahoyo,Los Rios,96956,-1.8019,-79.5346
-Quevedo,Los Rios,173585,-1.0225,-79.4604
-El Carmen,Manabi,46358,-0.2714,-79.4648
-Manta,Manabi,217553,-0.9677,-80.7089
-Puyo,Pastaza,33557,-1.4924,-78.0024
-Cayambe,Pichincha,39028,0.032,-78.1507
-Quito,Pichincha,1607734,-0.1807,-78.4678
-Salinas,Santa Elena,34719,-2.2234,-80.9585
-Santo Domingo,Santo Domingo de los Tsachilas,270875,-0.2389,-79.1774
-Ambato,Tungurahua,165185,-1.2543,-78.6229
+city,state,population,latitude,longitude,,
+Cuenca,Azuay,331888,-2.9001,-79.0059,,
+Guaranda,Bolivar,23874,-1.5905,-78.9995,,
+Riobamba,Chimborazo,"156,723",-1.6636,-78.6546,,
+Latacunga,Cotopaxi,63842,-0.9316,-78.6058,,
+Machala,El Oro,241606,-3.2581,-79.9554,,
+Esmeraldas,Esmeraldas,161868,0.9682,-79.6517,,
+Daule,Guayas,65145,-1.8622,-79.9777,,
+Guayaquil,Guayas,2278691,-2.171,-79.9224,,
+Libertad,Guayas,77646,-2.9287,-79.6883,,
+Playas,Guayas,24070,-2.6285,-80.3896,,
+Ibarra,Imbabura,139721,0.3392,-78.1222,,
+Loja,Loja,180617,-4.0079,-79.2113,,
+Babahoyo,Los Rios,96956,-1.8019,-79.5346,,
+Quevedo,Los Rios,173585,-1.0225,-79.4604,,
+El Carmen,Manabi,46358,-0.2714,-79.4648,,
+Manta,Manabi,217553,-0.9677,-80.7089,,
+Puyo,Pastaza,33557,-1.4924,-78.0024,,
+Cayambe,Pichincha,39028,0.032,-78.1507,,
+Quito,Pichincha,1607734,-0.1807,-78.4678,,
+Salinas,Santa Elena,34719,-2.2234,-80.9585,,
+Santo Domingo,Santo Domingo de los Tsachilas,270875,-0.2389,-79.1774,,
+Ambato,Tungurahua,165185,-1.2543,-78.6229,,
